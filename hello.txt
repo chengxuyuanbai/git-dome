@@ -5,4 +5,5 @@ hello kang, see morning
 hello kang, see morning
 hello kang, see morning	 master test
 hello kang, see morning hot-fix test
-this is kangkang speaking
+这是康康谈话
+周星到此一游
